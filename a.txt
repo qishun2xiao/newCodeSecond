@@ -1,1 +1,3 @@
 a.txt  diff
+git diff HEAD test!
+changed again!!
